@@ -1,0 +1,55 @@
+属性(key):java.runtime.name--->值(value):Java(TM) SE Runtime Environment
+属性(key):sun.boot.library.path--->值(value):C:\Program Files\Java\jdk1.8.0_144\jre\bin
+属性(key):java.vm.version--->值(value):25.144-b01
+属性(key):java.vm.vendor--->值(value):Oracle Corporation
+属性(key):java.vendor.url--->值(value):http://java.oracle.com/
+属性(key):path.separator--->值(value):;
+属性(key):java.vm.name--->值(value):Java HotSpot(TM) 64-Bit Server VM
+属性(key):file.encoding.pkg--->值(value):sun.io
+属性(key):user.script--->值(value):
+属性(key):user.country--->值(value):CN
+属性(key):sun.java.launcher--->值(value):SUN_STANDARD
+属性(key):sun.os.patch.level--->值(value):
+属性(key):java.vm.specification.name--->值(value):Java Virtual Machine Specification
+属性(key):user.dir--->值(value):E:\MYJAVADEMO
+属性(key):java.runtime.version--->值(value):1.8.0_144-b01
+属性(key):java.awt.graphicsenv--->值(value):sun.awt.Win32GraphicsEnvironment
+属性(key):java.endorsed.dirs--->值(value):C:\Program Files\Java\jdk1.8.0_144\jre\lib\endorsed
+属性(key):os.arch--->值(value):amd64
+属性(key):java.io.tmpdir--->值(value):C:\Users\ADMINI~1\AppData\Local\Temp\
+属性(key):line.separator--->值(value):
+
+属性(key):java.vm.specification.vendor--->值(value):Oracle Corporation
+属性(key):user.variant--->值(value):
+属性(key):os.name--->值(value):Windows 10
+属性(key):sun.jnu.encoding--->值(value):GBK
+属性(key):java.library.path--->值(value):C:\Program Files\Java\jdk1.8.0_144\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:/Program Files/Java/jdk1.8.0_144/bin/../jre/bin/server;C:/Program Files/Java/jdk1.8.0_144/bin/../jre/bin;C:/Program Files/Java/jdk1.8.0_144/bin/../jre/lib/amd64;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files\Java\jdk1.8.0_144\bin;\bin;;C:\WINDOWS\System32\OpenSSH\;C:\Users\Administrator\AppData\Local\Microsoft\WindowsApps;;E:\eclipse;;.
+属性(key):java.specification.name--->值(value):Java Platform API Specification
+属性(key):java.class.version--->值(value):52.0
+属性(key):sun.management.compiler--->值(value):HotSpot 64-Bit Tiered Compilers
+属性(key):os.version--->值(value):10.0
+属性(key):user.home--->值(value):C:\Users\Administrator
+属性(key):user.timezone--->值(value):
+属性(key):java.awt.printerjob--->值(value):sun.awt.windows.WPrinterJob
+属性(key):file.encoding--->值(value):GBK
+属性(key):java.specification.version--->值(value):1.8
+属性(key):user.name--->值(value):Administrator
+属性(key):java.class.path--->值(value):E:\MYJAVADEMO\bin
+属性(key):java.vm.specification.version--->值(value):1.8
+属性(key):sun.arch.data.model--->值(value):64
+属性(key):java.home--->值(value):C:\Program Files\Java\jdk1.8.0_144\jre
+属性(key):sun.java.command--->值(value):my.demo.api.system.SystemDemo
+属性(key):java.specification.vendor--->值(value):Oracle Corporation
+属性(key):user.language--->值(value):zh
+属性(key):awt.toolkit--->值(value):sun.awt.windows.WToolkit
+属性(key):java.vm.info--->值(value):mixed mode
+属性(key):java.version--->值(value):1.8.0_144
+属性(key):java.ext.dirs--->值(value):C:\Program Files\Java\jdk1.8.0_144\jre\lib\ext;C:\WINDOWS\Sun\Java\lib\ext
+属性(key):sun.boot.class.path--->值(value):C:\Program Files\Java\jdk1.8.0_144\jre\lib\resources.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\rt.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\sunrsasign.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\jce.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\jfr.jar;C:\Program Files\Java\jdk1.8.0_144\jre\classes
+属性(key):java.vendor--->值(value):Oracle Corporation
+属性(key):file.separator--->值(value):\
+属性(key):java.vendor.url.bug--->值(value):http://bugreport.sun.com/bugreport/
+属性(key):sun.cpu.endian--->值(value):little
+属性(key):sun.io.unicode.encoding--->值(value):UnicodeLittle
+属性(key):sun.desktop--->值(value):windows
+属性(key):sun.cpu.isalist--->值(value):amd64
